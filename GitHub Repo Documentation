@@ -1,0 +1,23 @@
+Use-Case:
+
+The purpose of this GitHub repository is mainly just to see what types of weather variables impact the scoring of a football game. 
+
+Starting a Repo:
+
+To start the repository we are just creating it on GitHub. The name of the repository is How-Weather-Effects-Football-Games. The files that will be used for the repository include a Kaggle notebook file (for the script and dataset), README file, and possibly a documentation file. 
+
+Here is a link to the repository: https://github.com/arya3364/How-Weather-Effects-Football-Games
+
+Creating your dataset/script:
+
+The dataset that we chose for this project is: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data. I chose this data set due to the amount of data it has to offer on many different aspects of football. In relation to this project it has details for almost every single game about weather temperature, weather humidity, and wind speed during a football game. Very useful information as we get three independent variables to analyze, not to mention we also get the scores of each football game.
+
+For the script we are simply just using the offered Kaggle notebook. As the notebook allows us to write code in either Python or R language. Also, the included starter code comes with imported packages for NumPy and pandas. The notebook allows us to explain our code very detailed as well as we can document with formal text cells or commenting our code.
+
+The script itself will be using a lot of the pandas packages to allow us to visually display the correlations in forms such as scatter plots and bar graphs. With the purpose of meeting the goals of our use case.
+
+Link to the note book: https://www.kaggle.com/aryajohnsamuel/nfl-scores-and-data/edit/run/86756030
+
+Saving a Repo
+
+Saving the repository is pretty easy with Kaggle notebook as all we had to do to commit the changes to GitHub is simply click save version and specify the branch and repository we would like to commit the change to on our GitHub account. 
